@@ -9,3 +9,5 @@
 # my changes
 **/out/
 **/build/
+/.idea/
+*.iml
