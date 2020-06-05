@@ -39,4 +39,5 @@ public class SimpleCalculator {
     public double getBForSub() {
         return this.bForSub;
     }
+
 }
